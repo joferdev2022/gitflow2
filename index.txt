@@ -2,4 +2,4 @@ Lorem es un texto que sirve de relleno para los diseños de páginas web o de ti
 
 Es algo que se usa mucho en el diseño gráfico, en el diseño web, en el diseño de interiores, etc.
 
-Podemos hacer esto cuantas veces queramos.
+Podemos hacer esto cuantas veces queramos. #MAIN: O no también.
